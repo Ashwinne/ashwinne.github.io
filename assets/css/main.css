@@ -2528,7 +2528,7 @@
 	}
 
 		#wrapper > .main {
-			padding: 5em 3em 3em 3em ;
+			padding: 2em 3em 0em 3em;
 		}
 
 		#wrapper > section {
@@ -2574,7 +2574,7 @@
 		}
 
 		#header > header {
-			padding: 8em 3em 6em 3em;
+			padding: 8em 3em 2em 3em;
 		}
 
 			#header > header h1 {
@@ -2659,6 +2659,20 @@
 				min-width: 0;
 			}
 
+/* Bucky */
+
+#bucky {
+    background-color: #2a2b2e;
+    background-image: url(images/overlay2.png), url(../../images/bucky.jpg);
+    background-position: top left,	center center;
+    background-repeat: repeat,	no-repeat;
+    background-size: auto,	cover;
+    border-top: 0 !important;
+    color: #c9caca;
+    padding: 3em 3em;
+    text-align: center;
+}
+
 /* Banner */
 
 	#banner {
@@ -2669,7 +2683,7 @@
 		background-size: auto,							cover;
 		border-top: 0 !important;
 		color: #c9caca;
-		padding: 6em 3em;
+		padding: 3em 3em;
 		text-align: center;
 	}
 
