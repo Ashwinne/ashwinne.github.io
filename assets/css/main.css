@@ -2673,6 +2673,30 @@
     text-align: center;
 }
 
+#tpot {
+    background-color: #2a2b2e;
+    background-image: url(images/overlay2.png), url(../../images/storm.jpg);
+    background-position: top left,	center center;
+    background-repeat: repeat,	no-repeat;
+    background-size: auto,	cover;
+    border-top: 0 !important;
+    color: #c9caca;
+    padding: 3em 3em;
+    text-align: center;
+}
+
+#heir {
+    background-color: #2a2b2e;
+    background-image: url(images/overlay2.png), url(../../images/book2.jpg);
+    background-position: top left,	center center;
+    background-repeat: repeat,	no-repeat;
+    background-size: auto,	cover;
+    border-top: 0 !important;
+    color: #c9caca;
+    padding: 3em 3em;
+    text-align: center;
+}
+
 /* Banner */
 
 	#banner {
